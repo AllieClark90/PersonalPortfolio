@@ -1,0 +1,153 @@
+body {
+  margin-top: 0px;
+  background-color: white;
+  font-family:Lobster Two;
+  color:white;
+}
+.block{
+  background-color:black;
+  opacity:0.8;
+  padding:10px;
+  width:50%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:10px;
+
+}
+.nav-pills {
+  font-family: Lobster Two;
+  font-size: 1.7em;
+  background-color: white;
+  background-opacity: .9; 
+}
+.pull-right {
+  font-family: Open Sans;
+  font-size: 0.7em;
+}
+h1{
+  padding:0px;
+  margin-top:0px;
+  font-size:7.0em;
+}
+.btn-default{
+  background-color:black;
+  border-color:black;
+  color:white;
+  font-size:1.7em;
+}
+.pageOne {
+  background:url("https://images.unsplash.com/photo-1458682625221-3a45f8a844c7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f53bc37ff31a9c27b92bb869ccc05a5e&auto=format&fit=crop&w=1334&q=80");
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 800px;
+  max-width: 100%;
+}
+.pleasework {
+  padding-top: 20%;
+  
+}
+h2{
+  font-family:Lobster Two;
+  font-size:2.8em;
+}
+.pageTwo {
+  min-height: 800px;
+  max-width: 100%;
+  font-family: Open Sans, sans-serif;
+  font-weight: 900;
+  font-size: 1.7em;
+  background-image: url("https://images.unsplash.com/photo-1495168851820-454d9d45386b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a9aec5e6ba0a4da498095c888b7607c5&auto=format&fit=crop&w=1334&q=80");
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 10%;
+  padding-left: 5%;
+  padding-right: 5%;
+  color:DimGrey;
+  
+}
+.pageThree {
+  min-height: 800px;
+  max-width: 100%;
+  font-family: Open Sans, sans-serif;
+  font-weight: 900;
+  font-size: 1.8em;
+  background-image: url("https://images.unsplash.com/photo-1462611849295-bcb823bf8f5f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=55bab17ce048795dbbced9dac72f0966&auto=format&fit=crop&w=1350&q=80");
+  background-size:cover;
+  background-attachment: fixed;
+  padding-top: 10%;
+  color:DimGrey;
+  text-align: center;
+  
+}
+
+.checkout{
+  font-size:0.6em;
+  color:black;
+  
+}
+.pageThree img {
+  width: 300px;
+}
+.pageFour {
+  background:url("https://images.unsplash.com/photo-1493059530036-6daa3ff094e4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a2e965ee9e61cdae977e8e766f182892&auto=format&fit=crop&w=1490&q=80");
+  background-size:cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  min-height: 100%;
+  width: 100%;
+  padding-top: 10%;
+  padding-bottom:0;
+  font-family: Open Sans, sans-serif;
+  font-weight: 900;
+  font-size: 1.2em;
+}
+.contactme p{
+  padding:5px;
+  margin-top:20px;
+  text-align:left;
+  color:black;
+  font-size:.8em;
+  background-color:white;
+  border-radius: 5px;
+}
+
+#enter{
+  margin-top:20px;
+}
+.btn-sm{
+  background:white;
+  color:black;
+}
+.fa {
+    padding: 22px;
+    font-size: 30px;
+    width: 60px;
+    text-align: left;
+    text-decoration: none;
+  
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  border-radius: 5px;
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+  border-radius:5px;
+}
+.fa-instagram {
+    background:#8134AF;
+    color: white;
+  border-radius:5px;
+}
+.fa-linkedin {
+    background:#0077B5;
+    color: white;
+  border-radius:5px;
+}
+.fa-github{
+  background:#000000;
+  color:white;
+  border-radius:5px;
+}
