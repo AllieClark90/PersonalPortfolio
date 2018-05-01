@@ -20,6 +20,9 @@ body {
   background-color: white;
   background-opacity: .9; 
 }
+.nav:hover{
+  text-shadow: 0 0 7px grey;
+}
 .pull-right {
   font-family: Open Sans;
   font-size: 0.7em;
@@ -117,6 +120,9 @@ h2{
 .btn-sm{
   background:white;
   color:black;
+}
+.btn-sm:hover{
+  text-shadow: 0 0 7px grey;
 }
 .fa {
     padding: 22px;
